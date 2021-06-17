@@ -3,8 +3,7 @@ Data and Scripts for Bostic et al. 2021 Ecosystems Manuscript
 
 Data files:
 
-WQ.csv - water quality (d18O, D17O, NO3) data corresponding to all surface water samples
-[WQ.csv](https://github.com/jbost1458/Bostic_etal_Ecosystems2021/files/6461173/WQ.csv)
+isotope_NO3_Bostic2021.csv - water quality (d18O, D17O, NO3) data corresponding to all surface water samples
 
 
 Column names and descriptions:
@@ -12,7 +11,7 @@ Column names and descriptions:
 Site = Name of watershed, abbreviated. See Table 1 in Bostic et al. 2021 for full names
 Date = Date of sample collection
 d18O = delta 18O of NO3 (per mille)
-D17O = Delta 17O of NO3 (per mille)
+d17O = delta 17O of NO3 (per mille)
 NO3_Total = Total No3 concentrations (mg N/L)
 
 Folder with Discharge Weighted Mean Concentrations (all files ending in DWMC.csv)
