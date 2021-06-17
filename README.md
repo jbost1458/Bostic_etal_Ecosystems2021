@@ -14,11 +14,11 @@ d18O = delta 18O of NO3 (per mille)
 d17O = delta 17O of NO3 (per mille)
 NO3_Total = Total No3 concentrations (mg N/L)
 
-Folder with Discharge Weighted Mean Concentrations (all files ending in DWMC.csv)
+Folder with Discharge Weighted Mean Concentrations ("conc" folder)
 Columns 1:800 = 800 bootstrapped samples of water-year discharge weighted mean concentration of total NO3
 Rows = Specific water year corresponding to bootstrap samples
 
-Folder with Water Year Total Nitrate fluxes (all files ending in flux.csv)
+Folder with Water Year Total Nitrate fluxes ("flux" folder)
 Columns 1:800 = 800 bootstrapped samples of water-year fluxes in kg/d of total NO3
 Rows = Specific water year corresponding to bootstrap samples
 
